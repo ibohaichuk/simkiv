@@ -33,7 +33,6 @@ public class App
             e.printStackTrace();
         }
 
-
         int start = 1;
         int end = 100;
         int count = 0;
